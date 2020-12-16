@@ -5,6 +5,12 @@ ModelImporter:
   internalIDToNameTable:
   - first:
       74: -203655887218126122
+    second: Sword And Shield Attack
+  - first:
+      74: -6809524309407218073
+    second: Sword And Shield Attack (1)
+  - first:
+      74: 7951578344922729467
     second: "\u6280\u80FD"
   externalObjects: {}
   materials:
